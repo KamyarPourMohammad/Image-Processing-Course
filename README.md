@@ -31,7 +31,8 @@ The goal here is to have a link to reference the assignment's repo. Each assignm
 | # | Topic | Repo / Notebook | Key Concepts | Done |
 |---|-------|----------------|--------------|------|
 | 1 | HSV Color Space & Bit-Plane Slicing | [🔗 WarmUp](https://github.com/KamyarPourMohammad/ColorSpace-BitPlane-Analysis) | Saturation channel analysis, bit decomposition, storage optimization | ✅ |
-| 2 | (Coming) | – | (Will be announced soon) | 🔜 |
+| 2 | Transforms and Filters | [Image Enhancement](https://github.com/KamyarPourMohammad/Image-Enhancement-and-Denoising) | Histogram Equalization, Log-Exp-Gamma Transforms, Median-Gaussian-Mean Filters | ✅ |
+| 3 | (Coming) | – | (Will be announced soon) | 🔜 |
 
 ---
 
