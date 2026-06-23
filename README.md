@@ -33,7 +33,8 @@ The goal here is to have a link to reference the assignment's repo. Each assignm
 | 1 | HSV Color Space & Bit-Plane Slicing | [🔗 WarmUp](https://github.com/KamyarPourMohammad/ColorSpace-BitPlane-Analysis) | Saturation channel analysis, bit decomposition, storage optimization | ✅ |
 | 2 | Transforms and Filters | [Image Enhancement](https://github.com/KamyarPourMohammad/Image-Enhancement-and-Denoising) | Histogram Equalization, Log-Exp-Gamma Transforms, Median-Gaussian-Mean Filters | ✅ |
 | 3 | Canny-Hough-HighBoost | [Edge & Resolution](https://github.com/KamyarPourMohammad/Canny-Hough-HighBoost) | Edge detection, increase resolution & hough transform | ✅ |
-| 4 | (Coming) | – | (Will be announced soon) | 🔜 |
+| 4 | 2D-Transform | [Transform](https://github.com/KamyarPourMohammad/2D-Transform) | Image Processing Mastery: Canny, Hough Transform & High-Boost Filter | 🔜 |
+| 5 | (Coming) | – | (Will be announced soon) | 🔜 |
 
 ---
 
